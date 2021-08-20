@@ -1,4 +1,4 @@
-name: 'Sync repository'
+name: 'sync github repository'
 description: 'Sync repository.'
 branding:
   icon: 'git-branch'
